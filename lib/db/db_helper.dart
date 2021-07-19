@@ -2,7 +2,6 @@ import 'dart:developer';
 
 import 'package:path/path.dart';
 import 'package:qrcode_scan_reader/models/qr_model.dart';
-import 'package:qrcode_scan_reader/utils/constants/app_constant.dart';
 import 'package:sqflite/sqflite.dart';
 
 class DbHelper
